@@ -1,2 +1,2 @@
 # FanProber
-A small command line tool that pulls fan speed information and attempts to detect abnormalities as such intermittent stopping.
+A small command line tool that pulls fan speed information and attempts to detect abnormalities as such intermittent stopping. Pulls fan speed information and attempts to detect abnormalities as such intermittent stopping. Collects and reports fan speeds and correct operation of fans. You would think that the motherboard and BIOS would monitor this informaiton correctly, but over at Invise Solutions, we had a biz client that was reporting occational PC crashing. After being physically there onsite during another occurence, we disocvered that the CPU fan was randomly stopping, and the CPU was heating up. 
